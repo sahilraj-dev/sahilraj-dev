@@ -63,23 +63,24 @@ I'm a **Computer Science undergrad** passionate about crafting polished, product
 
 ### 📊 GitHub Analytics
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sahilraj-dev&show_icons=true&count_private=true&include_all_commits=true&theme=transparent&hide_border=true&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&ring_color=a78bfa&rank_icon=percentile" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilraj-dev&layout=donut-vertical&theme=transparent&hide_border=true&title_color=a78bfa&text_color=c9d1d9&langs_count=6&size_weight=0.5&count_weight=0.5" />
-</div>
+<p align="center">
+  <a href="https://github.com/sahilraj-dev">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sahilraj-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&ring_color=a78bfa" />
+  </a>
+  <a href="https://github.com/sahilraj-dev">
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=sahilraj-dev&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C9D1D9&dates=555555" />
+  </a>
+</p>
 
-<br />
+<p align="center">
+  <a href="https://github.com/sahilraj-dev">
+    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilraj-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" />
+  </a>
+</p>
 
-<div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=sahilraj-dev&theme=transparent&hide_border=true&ring=A78BFA&fire=FF6B6B&currStreakLabel=A78BFA&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=555555" />
-</div>
-
-<br />
-
-<div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=sahilraj-dev&theme=react-dark&hide_border=true&bg_color=00000000&color=a78bfa&line=a78bfa&point=ffffff&area=true&area_color=a78bfa" />
-</div>
-
+<p align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=sahilraj-dev&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff&area=true&area_color=a78bfa" />
+</p>
 
 
 
