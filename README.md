@@ -81,7 +81,9 @@ I'm a **Computer Science undergrad** passionate about crafting polished, product
 ### 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sahilraj-dev&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" />
+  <img src="https://github-trophies.vercel.app/?username=sahilraj-dev&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" />
+  <br />
+  <img src="https://github-profile-trophy.vercel.app/?username=sahilraj-dev&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=10" />
 </div>
 
 ---
