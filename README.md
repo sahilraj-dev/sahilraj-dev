@@ -76,17 +76,8 @@ I'm a **Computer Science undergrad** passionate about crafting polished, product
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahilraj-dev&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff&area=true&area_color=a78bfa" />
 </div>
 
----
 
-### 🏆 GitHub Trophies
 
-<div align="center">
-  <img src="https://github-trophies.vercel.app/?username=sahilraj-dev&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" />
-  <br />
-  <img src="https://github-profile-trophy.vercel.app/?username=sahilraj-dev&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=10" />
-</div>
-
----
 
 ### 🐍 Contribution Snake
 
