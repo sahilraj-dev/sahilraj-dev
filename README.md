@@ -16,11 +16,11 @@
 
 ### 🧑‍💻 About Me
 
-I'm a **Computer Science undergrad** passionate about crafting polished, production-quality web applications. I don't just write code — I architect seamless digital experiences with meticulous attention to design, performance, and user delight.
+I'm a **Computer Science undergrad** passionate about crafting polished, production-quality web applications. I don't just write code - I architect seamless digital experiences with meticulous attention to design, performance, and user delight.
 
-- 🔭 Currently building the **D-Coders Squad Platform** — a full-stack community management system  
+- 🔭 Currently building the **D-Coders Squad Platform** - a full-stack community management system  
 - 🧠 Deep into **Next.js 16**, **React 19**, **TypeScript**, and **Prisma ORM**  
-- 🎨 Obsessed with premium UI/UX — smooth animations, dark themes, and pixel-perfect layouts  
+- 🎨 Obsessed with premium UI/UX - smooth animations, dark themes, and pixel-perfect layouts  
 - 🤖 Exploring **AI/ML** and intelligent automation  
 - 📬 Reach me at **work.sahilsr@gmail.com**  
 - ⚡ Fun fact: I believe great software should feel like magic ✨
